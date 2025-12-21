@@ -1,10 +1,7 @@
 <div align="center">
 
   <!-- Animated Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=650&lines=Hi+there%2C+I'm+Aniya+%F0%9F%91%8B;Programming+Learner;Exploring+Multiple+Technologies;Building+Strong+Foundations" alt="Typing SVG" />
-
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Tanvi11010&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=650&lines=Hi+there%2C+I'm+Tanvi+%F0%9F%91%8B;Programming+Learner;Exploring+Multiple+Technologies;Building+Strong+Fundamentals" alt="Typing SVG" />
 
 </div>
 
@@ -14,55 +11,114 @@
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 👩🏻‍🎓 A student learning programming and computer science fundamentals  
-- 🌱 Currently exploring **multiple languages and frameworks**  
-- 🧠 Focused on building **logic, clarity, and strong basics**  
-- 💬 Interested in **problem-solving and practical learning**  
-- 📫 Reach me at: **tanvi.sojitra10@gmail.com**
+👩🏻‍🎓 I am a student learning programming and computer science fundamentals,  
+focused on building strong logic and practical problem-solving skills.
 
-<br clear="both">
+🌱 Currently exploring **multiple languages and frameworks** to gain hands-on experience.
+
+🧠 I am currently focusing on strengthening my understanding of core concepts  
+through coursework, practice problems, and guided learning.
+
+
+📚 Actively working on academic and personal projects to strengthen  
+both technical knowledge and real-world development skills.
+
+📫 Reach me at: **tanvi.sojitra10@gmail.com**
+
+<br clear="right">
 
 ---
 
-## 🛠️ Tech Stack
+### 🔭 Projects
+
+#### --> 📱 Krushi-Dava App *(5ᵗʰ Semester)*
+Developed a mobile application to help farmers check pesticide availability  
+without visiting shops physically.  
+Designed a clean and simple UI to improve accessibility, enabling users to  
+browse, search, and view pesticide details with ease.  
+
+**Technologies:** Flutter · Dart · Firebase · UI/UX · Android Studio · Figma  
+
+
+#### --> 🧴 Skincare Products Website *(4ᵗʰ Semester)*
+Developed a skincare e-commerce website that allows users to purchase  
+dermatologist-recommended and general skincare products.  
+Designed intuitive pages for product browsing, filtering, and secure checkout  
+to ensure a smooth shopping experience.  
+
+**Technologies:** HTML · CSS · JavaScript · PHP · MySQL · UI/UX  
+
+---
+
+
+## 📚 Learning Technologies
 
 <div align="center">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
-
 <a href="https://www.python.org/doc/">
   <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
-
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-</a>
-
 <a href="https://docs.oracle.com/en/java/">
   <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </a>
-
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+</a>
 <a href="https://flutter.dev/docs">
   <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
 </a>
-
+<a href="https://react.dev/learn">
+  <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</a>
 <a href="https://learn.microsoft.com/en-us/dotnet/framework/">
   <img src="https://img.shields.io/badge/.NET_Framework-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </a>
 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+</div>
+
+---
+
+## 🛠 Tools
+
+<div align="center">
+
+<a href="https://code.visualstudio.com/">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</a>
+<a href="https://visualstudio.microsoft.com/">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.figma.com/">
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </a>
 
-<a href="https://react.dev/learn">
-  <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</a>
+</div>
+
+---
+
+## 🧩 Soft Skills
+
+<div align="center">
+
+🤝 **Team Collaboration** &nbsp;|&nbsp;
+💡 **Problem Solving** &nbsp;|&nbsp;
+⏱️ **Time Management** &nbsp;|&nbsp;
+
+🎯 **Adaptability** &nbsp;|&nbsp;
+🔍 **Attention to Detail** &nbsp;|&nbsp;
+💪 **Dedicated To Work**
 
 </div>
 
@@ -81,9 +137,9 @@
 
 ---
 
-## 📘 About This Repository
+## 📘 About This Github Profile
 
-This repository contains my learning and practice work across
+This Profile contains my learning,Projects, and practice work across
 different programming languages and technologies.
 
 The goal is to:
