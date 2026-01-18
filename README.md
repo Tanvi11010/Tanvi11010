@@ -152,11 +152,11 @@ The goal is to:
 
 ## 📚 Learning Focus
 
+- UI/UX design 
 - Programming fundamentals  
 - Web basics  
 - Application development concepts  
 - Logical thinking and practice problems 
-- UI/UX design 
 
 ---
 
