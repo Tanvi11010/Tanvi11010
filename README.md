@@ -131,10 +131,6 @@ to ensure a smooth shopping experience.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvi11010&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvi11010&theme=tokyonight&hide_border=true"/>
-</div>
-
 ---
 
 ## 📘 About This Github Profile
