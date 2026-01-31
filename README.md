@@ -1,27 +1,27 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-  <!-- Animated Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=650&lines=Hi+there%2C+I'm+Tanvi+%F0%9F%91%8B;Programming+Learner;Exploring+Multiple+Technologies;Building+Strong+Fundamentals" alt="Typing SVG" />
 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=650&lines=Hi+there%2C+I'm+Tanvi+%F0%9F%91%8B;UI%2FUX+Design+Enthusiast;Exploring+User-Centered+Design;Building+Strong+Fundamentals" alt="Typing SVG" />
+
+  <h3>· Computer Engineering Student ·</h3>
 </div>
 
 ---
 
-## 🚀 About Me
+<!-- ===================== ABOUT ME ===================== -->
+### 👩🏻‍🎓 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-👩🏻‍🎓 I am a student learning programming and computer science fundamentals,  
-focused on building strong logic and practical problem-solving skills.
+I am a student learning and Exploring **UI/UX principles**, **design systems**, **interaction design**
 
-🌱 Currently exploring **multiple languages and frameworks** to gain hands-on experience.
+✦ Focused on **user behavior**, **design psychology**, **usability**<br>
+✦ Building **academic** and **personal UI/UX projects**<br>
+✦ Working with **wireframes**, **prototypes**, **usability improvements**<br>
+✦ Inspired by **novels & storytelling** for creative thinking<br>
 
-🧠 I am currently focusing on strengthening my understanding of core concepts  
-through coursework, practice problems, and guided learning.
-
-
-📚 Actively working on academic and personal projects to strengthen  
-both technical knowledge and real-world development skills.
+🌱 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘣𝘺 𝘥𝘰𝘪𝘯𝘨 · 𝘋𝘦𝘴𝘪𝘨𝘯𝘪𝘯𝘨 𝘸𝘪𝘵𝘩 𝘱𝘶𝘳𝘱𝘰𝘴𝘦
 
 📫 Reach me at: **tanvi.sojitra10@gmail.com**
 
@@ -29,133 +29,117 @@ both technical knowledge and real-world development skills.
 
 ---
 
+<!-- ===================== PROJECTS ===================== -->
 ### 🔭 Projects
 
-#### --> 📱 Krushi-Dava App *(5ᵗʰ Semester)*
+#### ➤ Krushi-Dava App *(5ᵗʰ Semester)*
 Developed a mobile application to help farmers check pesticide availability  
 without visiting shops physically.  
 Designed a clean and simple UI to improve accessibility, enabling users to  
 browse, search, and view pesticide details with ease.  
 
-**Technologies:** Flutter · Dart · Firebase · UI/UX · Android Studio · Figma  
+· **Technologies:** Flutter · Dart · Firebase · UI/UX · Android Studio · Figma  
 
-
-#### --> 🧴 Skincare Products Website *(4ᵗʰ Semester)*
+#### ➤ Skincare Products Website *(4ᵗʰ Semester)*
 Developed a skincare e-commerce website that allows users to purchase  
 dermatologist-recommended and general skincare products.  
 Designed intuitive pages for product browsing, filtering, and secure checkout  
 to ensure a smooth shopping experience.  
 
-**Technologies:** HTML · CSS · JavaScript · PHP · MySQL · UI/UX  
+· **Technologies:** HTML · CSS · JavaScript · PHP · MySQL · UI/UX  
 
 ---
 
-
+<!-- ===================== LEARNING TECHNOLOGIES ===================== -->
 ## 📚 Learning Technologies
 
 <div align="center">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-EEDBFF.svg?style=for-the-badge&logo=html5&logoColor=000000"/>
 </a>
 <a href="https://www.python.org/doc/">
-  <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-EEDBFF.svg?style=for-the-badge&logo=python&logoColor=000000"/>
 </a>
 <a href="https://docs.oracle.com/en/java/">
-  <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-EEDBFF.svg?style=for-the-badge&logo=openjdk&logoColor=000000"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/JavaScript-EEDBFF.svg?style=for-the-badge&logo=javascript&logoColor=000000"/>
 </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-EEDBFF.svg?style=for-the-badge&logo=csharp&logoColor=000000"/>
 </a>
 <a href="https://flutter.dev/docs">
-  <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-EEDBFF.svg?style=for-the-badge&logo=flutter&logoColor=000000"/>
 </a>
 <a href="https://react.dev/learn">
-  <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React-EEDBFF.svg?style=for-the-badge&logo=react&logoColor=000000"/>
 </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/framework/">
-  <img src="https://img.shields.io/badge/.NET_Framework-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET_Framework-EEDBFF.svg?style=for-the-badge&logo=dotnet&logoColor=000000"/>
 </a>
 
 </div>
 
 ---
 
-## 🛠 Tools
+<!-- ===================== TOOLS & IDES ===================== -->
+## 🛠 Tools & IDEs
 
 <div align="center">
 
+<a href="https://www.figma.com/">
+  <img src="https://img.shields.io/badge/Figma-EEDBFF.svg?style=for-the-badge&logo=figma&logoColor=000000"/>
+</a>
 <a href="https://code.visualstudio.com/">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-EEDBFF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=000000"/>
 </a>
 <a href="https://visualstudio.microsoft.com/">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-EEDBFF.svg?style=for-the-badge&logo=visual-studio&logoColor=000000"/>
 </a>
 <a href="https://git-scm.com/">
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-EEDBFF.svg?style=for-the-badge&logo=git&logoColor=000000"/>
 </a>
 <a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.figma.com/">
-  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-EEDBFF.svg?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </div>
 
 ---
 
-## 🧩 Soft Skills
-
-<div align="center">
-
-🤝 **Team Collaboration** &nbsp;|&nbsp;
-💡 **Problem Solving** &nbsp;|&nbsp;
-⏱️ **Time Management** &nbsp;|&nbsp;
-
-🎯 **Adaptability** &nbsp;|&nbsp;
-🔍 **Attention to Detail** &nbsp;|&nbsp;
-💪 **Dedicated To Work**
-
+<!-- ===================== SOFT SKILLS ===================== -->
+<div>
+  <h3>🧩 Soft Skills</h3>
+  <ul>
+    <li>Team Collaboration</li>
+    <li>Problem Solving</li>
+    <li>Time Management</li>
+    <li>Adaptability</li>
+    <li>Attention to Detail</li>
+    <li>Dedicated to Work</li>
+  </ul>
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanvi11010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvi11010&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
+<!-- ===================== CURRENT LEARNING FOCUS ===================== -->
+<div>
+  <h3>🎨 Current Learning Focus (UI/UX)</h3>
+  <ul>
+    <li>UI/UX design fundamentals & user-centered thinking</li>
+    <li>Design principles, layout, and visual hierarchy</li>
+    <li>Interaction design & intuitive user flows</li>
+    <li>Wireframing, prototyping, and usability improvements</li>
+    <li><strong>Logical thinking & problem-solving</strong> in design decisions</li>
+    <li>Understanding user behavior & design psychology</li>
+  </ul>
 </div>
 
----
+<hr/>
 
-## 📘 About This Github Profile
-
-This Profile contains my learning,Projects, and practice work across
-different programming languages and technologies.
-
-The goal is to:
-- Understand concepts clearly  
-- Practice consistently  
-- Improve problem-solving skills  
-- Track learning progress over time  
-
----
-
-## 📚 Learning Focus
-
-- UI/UX design 
-- Programming fundamentals  
-- Web basics  
-- Application development concepts  
-- Logical thinking and practice problems 
-
----
-
+<!-- ===================== CONNECT ===================== -->
 ## 🤝 Connect with Me
 
 <div align="center">
@@ -166,8 +150,30 @@ The goal is to:
 
 </div>
 
----
+<hr>
 
+<!-- ===================== PROFILE PURPOSE ===================== -->
+<div>
+  <h3>📘 About This GitHub Profile</h3>
+  <p>
+    This GitHub profile reflects my learning journey,  
+    featuring academic and personal projects across various technologies.
+  </p>
+  <p>
+    My aim is to build strong foundations, gain hands-on experience, and grow steadily,  
+    with a natural interest in user-focused design and overall improvement.
+  </p>
+</div>
+
+<hr>
+
+<!-- ===================== FOOTER ===================== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Have+a+great+day+🚀"
+  />
+</p>
