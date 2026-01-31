@@ -172,8 +172,9 @@ to ensure a smooth shopping experience.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Have+a+great+day+🚀"
+<p align="center"><img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Have+a+great+day+😊"
+/>
+
   />
 </p>
