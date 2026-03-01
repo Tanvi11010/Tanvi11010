@@ -19,7 +19,6 @@ I am a student learning and Exploring **UI/UX principles**, **design systems**, 
 ✦ Focused on **user behavior**, **design psychology**, **usability**<br>
 ✦ Building **academic** and **personal UI/UX projects**<br>
 ✦ Working with **wireframes**, **prototypes**, **usability improvements**<br>
-✦ Inspired by **novels & storytelling** for creative thinking<br>
 
 🌱 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘣𝘺 𝘥𝘰𝘪𝘯𝘨 · 𝘋𝘦𝘴𝘪𝘨𝘯𝘪𝘯𝘨 𝘸𝘪𝘵𝘩 𝘱𝘶𝘳𝘱𝘰𝘴𝘦
 
